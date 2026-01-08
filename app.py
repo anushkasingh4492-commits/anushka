@@ -25,5 +25,4 @@ if st.button('Fetch and Process Data'):
 
     st.subheader("Raw Tensor Output (First 10 rows)")
     st.code(data_tensor[:10])
-torch>=2.0.0 --index-url https://download.pytorch.org/whl/cpu
 numpy>=1.24.0
