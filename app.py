@@ -25,4 +25,3 @@ if st.button('Fetch and Process Data'):
 
     st.subheader("Raw Tensor Output (First 10 rows)")
     st.code(data_tensor[:10])
-numpy>=1.24.0
